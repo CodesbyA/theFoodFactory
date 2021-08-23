@@ -1,2 +1,5 @@
 # theFoodCompany
- Created a restaurant website using Js, Html and css
+- Created a restaurant website using Js, Html and css
+- Built on html (Semantic tags), css, Javascript (Es6).
+- The website features animations, a loader, and it is fully responsive.
+- Created the loader and button animations using CSS.

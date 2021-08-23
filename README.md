@@ -1,2 +1,2 @@
 # theFoodCompany
- Created a restayrant website using Js, Html and css
+ Created a restaurant website using Js, Html and css

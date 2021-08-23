@@ -438,7 +438,7 @@ header .navbar a:hover {
   /* left: 1%;
   transform: translate(-15%, -10%); */
   /* border-top: 0.1rem solid black; */
-  background: #000;
+  background: #26252d;
   text-align: center;
 }
 
@@ -471,6 +471,7 @@ header .navbar a:hover {
   line-height: 70px;
   font-size: 1.6rem;
   transition: 0.3s;
+  z-index: 1;
 }
 
 .fcontainer a::before,

@@ -1,3 +1,5 @@
+![Gif](https://github.com/CodesbyA/theFoodFactory/blob/604613d1381749799b7ddf884625b727c599eb13/images/gif.gif)
+
 # theFoodFactory
 https://codesbya.github.io/theFoodFactory/
 - Built on html (Semantic tags), css, Javascript (Es6).
